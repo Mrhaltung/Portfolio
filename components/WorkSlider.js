@@ -6,7 +6,7 @@ export const workSlides = {
         {
           title: 'Camera Shop',
           path: '/camera-shop.png',
-          link: 'https://qgf3dv-3000.csb.app/',
+          link: 'https://github.com/Mrhaltung/Online-Camera-Shop',
         },
         {
           title: 'Taskr Social App',
@@ -16,12 +16,12 @@ export const workSlides = {
         {
           title: 'Real EState Business',
           path: '/real-estate.png',
-          link: 'https://2ft6s3-3000.csb.app/',
+          link: 'https://github.com/Mrhaltung/Real-Estate-Website',
         },
         {
           title: 'Restaurant App',
           path: '/restaurant.png',
-          link: 'https://j8vh3n-3000.csb.app/',
+          link: 'https://github.com/Mrhaltung/Restaurant-Project',
         },
       ],
     },
