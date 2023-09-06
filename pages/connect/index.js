@@ -89,7 +89,7 @@ const Connect = () => {
                 overflow-hidden hover:border-accent group'>
                 <span className='group-hover:-translate-y-[120%] group-hover:opacity-0 transition-all duration-500'>Resume</span>
                 <span className='-translate-y-[120%] opacity-0 group-hover:flex group-hover:-translate-y-0 group-hover:opacity-100 transition-all duration-300 absolute text-[15px]'>
-                  <a href="" target="_blank" rel="noreferrer">Link to Download</a>
+                  <a href="https://drive.google.com/file/d/1Brq1AzNUn6keLUA-twMm_sTHyX12z7L_/view?usp=drive_link" target="_blank" rel="noreferrer">Link to Download</a>
                 </span>
               </button>
             </div>
